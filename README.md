@@ -1,12 +1,12 @@
 <p align="center">
-  <img src="https://safemoon.net/img/LogoAnim.gif" width="64" />
+  <img src="" width="64" />
   <br/>
-  <h3 align="center">SafeMoon</h3>
+  <h3 align="center"</h3>
 </p>
 <p align="center">
   <span align="center">Smart Contract 🚀</span>
   <br/>
-  <a href ="https://safemoon.net/" target="_blank">https://safemoon.net/</a>
+  <a href ="https://safemoon.net/" target="_blank"></a>
 </p>
 
 <p align="center">
